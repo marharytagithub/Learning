@@ -1,6 +1,7 @@
 #Procedural approach#
 
 [passed] 1. create function. the function has 3 words. first we echo 1st, 2nd, 3rd word on new line. then we show all 3 words together 
+
 [passed] 2. create function. the function check current time. if time is before 14:00 - echo 'before', if after 14:00 - echo 'after' 
 [passed] 3. do 1st task with array, sort words alphabetically, do as function 
 [passed] 4. sort vs asort vs ksort
