@@ -204,7 +204,7 @@
 
 102. after contact form saved if ok - redirect to Thank you page
 
-103. pagination get parameter  http://r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/ru.html.net/tutorials/php/lesson10.php
+103. pagination get parameter  http://ru.html.net/tutorials/php/lesson10.php
 
 104. gallery
 
@@ -213,4 +213,3 @@
 106. http request 
 
 107. website refactoring 
-
