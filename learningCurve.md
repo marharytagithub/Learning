@@ -40,7 +40,7 @@
 
 20. function variable visibility scope
 
-21, create function. the function has one parameter name. the function return html page with this name
+21. create function. the function has one parameter name. the function return html page with this name
 
 22. create function. function has one parameter (int). depending of this parameter we return word one, two, three, four or not found. use switch
 
@@ -94,7 +94,7 @@
 
 47. obligatory and arbitrary function params
 
-48. learn html <img> and <a href>
+48. learn html img and ahref
 
 49. create function. the function accept parameter text and return array of words
 
