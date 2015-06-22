@@ -4,7 +4,7 @@
 
 2. create function. the function check current time. if time is before 14:00 - echo 'before', if after 14:00 - echo 'after' 
 
-3. do 1st task with array, sort words alphabetically, do as function 
+3. do 1st task with array, sort words alphabetically, do as function<br />
 
 4. sort vs asort vs ksort
 
