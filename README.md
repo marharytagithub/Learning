@@ -1,1 +1,1 @@
-Here listed my learning plans / tasks 
+Here are listed my passed learning topics / tasks
