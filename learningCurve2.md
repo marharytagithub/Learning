@@ -18,4 +18,4 @@
 
 7. static 
 
-8. pattern collection, factory, decorator 
+8. pattern ideology: collection, factory, decorator 
