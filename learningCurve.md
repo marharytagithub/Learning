@@ -4,7 +4,7 @@
 
 2. create function. the function check current time. if time is before 14:00 - echo 'before', if after 14:00 - echo 'after' 
 
-3. do 1st task with array, sort words alphabetically, do as function<br />
+3. do 1st task with array, sort words alphabetically, do as function
 
 4. sort vs asort vs ksort
 
@@ -70,8 +70,8 @@
 
 35. create function which draws a fee-tree using letter 'O'
 
-36. create function. the function build text with <p>. every <p> is element of array 
-
+36. create function. the function build text with < p >. every < p > is element of array 
+ 
 37. create function. the function can accept any numbers, but shows only even numbers
 
 38. variable type is defined when we set the value
@@ -126,7 +126,7 @@
 
 63. microtime, timestamp. convert microtime to date
 
-64. refactoring 2015.04.07.1
+64. refactoring 
 
 65. and, or, &&, ||, &, |, nor, xor
 
@@ -211,5 +211,3 @@
 105. website refactoring 
 
 106. http request 
-
-107. website refactoring 
